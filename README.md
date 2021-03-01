@@ -1,4 +1,4 @@
 # Not-Ekle
-Basit Not ekleme uygulaması.
-Öncelikle bağımlılıkları çalıştırın.
-Sonra test edebilirsiniz.
+Basit Not ekleme uygulaması.<br>
+Öncelikle bağımlılıkları çalıştırın.<br>
+Sonra test edebilirsiniz.<br>
